@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **DSA, C++, JAVA, SQL**
+- 🌱 I’m currently learning **DSA, PYTHON, SQL/PLSQL, AI/ML, DEEP LEARNING, GEN AI**
 
 - 👨‍💻 All of my projects are available at [https://olympus.mygreatlearning.com/eportfolio](https://olympus.mygreatlearning.com/eportfolio)
 
