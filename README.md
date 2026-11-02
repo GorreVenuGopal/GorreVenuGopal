@@ -1,33 +1,74 @@
-[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Venu Gopal</h1>
-<h3 align="center">A passionate MES Consultant from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+![Venu Gopal — MES Consultant and Developer](assets/profile-banner.svg)
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gorrevenugopal&label=Profile%20views&color=0e75b6&style=flat" alt="gorrevenugopal" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **DSA, PYTHON, SQL/PLSQL, AI/ML, DEEP LEARNING, GEN AI**
-
-- 👨‍💻 All of my projects are available at [https://olympus.mygreatlearning.com/eportfolio](https://olympus.mygreatlearning.com/eportfolio)
-
-- 📫 How to reach me **venugopal996639@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bgfwPh9mabjbh6mK02h8u4qVVEY_nKb9/view?usp=sharing](https://drive.google.com/file/d/1bgfwPh9mabjbh6mK02h8u4qVVEY_nKb9/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/venu-gopal-562a49200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/venu-gopal-562a49200/" height="30" width="40" /></a>
-<a href="https://instagram.com/itsvenug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsvenug" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/venu-gopal-562a49200/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:venugopal996639@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://github.com/GorreVenuGopal?tab=repositories">Repositories</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+## About me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gorrevenugopal&show_icons=true&locale=en&layout=compact" alt="gorrevenugopal" /></p>
+I'm Venu Gopal, an MES consultant and developer based in India. I work with **Siemens Opcenter** to connect manufacturing processes, shop-floor operations, and enterprise systems.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gorrevenugopal&show_icons=true&locale=en" alt="gorrevenugopal" /></p>
+My experience covers requirements gathering, solution design, configuration, custom development, integration, testing, deployment, and production support. I enjoy turning manufacturing requirements into practical software with clear workflows and dependable data.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gorrevenugopal&" alt="gorrevenugopal" /></p>
+## Technical focus
+
+| Area | Technologies and experience |
+| --- | --- |
+| MES development | Siemens Opcenter, Designer, Portal Studio, CDOs, CLFs, transaction extensions, business validations |
+| Manufacturing integration | Workflow Designer, Map Designer, MIO/CIO, REST APIs, file and database adapters |
+| Application development | C#, .NET, JavaScript, HTML, CSS |
+| Databases | Oracle SQL / PL/SQL, SQL Server, stored procedures, data reconciliation |
+| Shop-floor connectivity | Ignition SCADA, Python / Jython, OPC UA, PLC and Level-2 interfaces |
+| Delivery and quality | URS / FRS, technical design, unit testing, SIT / UAT, validation support, go-live and hypercare |
+
+## What I work on
+
+- **Manufacturing execution:** configurable models, container lifecycle, materials, resources, and WIP processes.
+- **Operator experience:** transaction pages, grid editing, defaults, and validations in Portal Studio.
+- **System integration:** inbound master data and production data, outbound transactions, retries, and interface monitoring.
+- **Data and automation:** SQL / PL/SQL logic, shop-floor data capture, and reconciliation between MES and enterprise systems.
+- **Regulated delivery:** experience supporting CSV, GxP, and 21 CFR Part 11 requirements.
+
+Professional work includes pharmaceutical, steel, and glass manufacturing environments. Client source code and internal implementation details are not published here.
+
+## Featured personal project
+
+### Daybook · Personal productivity for Android
+
+An offline-first personal organizer bringing daily planning, learning, wellbeing, and personal records into one customizable app.
+
+**Highlights**
+
+- Day-wise workouts with offline GIF guides, Done / Skip tracking, and editable exercise plans.
+- Life Timeline, Skills & Growth, Developer Skills, goals, and habit challenges.
+- Reminders, contacts, document wallet, savings and investments, and an encrypted password vault.
+- Page themes, customizable tabs, and an editing lock to prevent accidental layout changes.
+- Local storage, backups, and optional Google spreadsheet synchronization.
+
+**Built with:** Java · Android WebView · JavaScript · HTML / CSS · WorkManager · Google APIs.
+
+**Status:** personal Android project; Google connection requires owner configuration, and device-specific features need physical-phone validation. The source repository is private. This profile does not publish the app or its personal data.
+
+## Learning and development
+
+I'm continuing to strengthen my skills in:
+
+- C# / .NET application design and maintainable integration services.
+- SQL / PL/SQL performance, data quality, and reliable transaction processing.
+- Git, automated testing, and software delivery.
+- Python, data structures, and practical AI / generative AI applications.
+
+## Education
+
+- **MBA — Business Analytics**
+- **B.Sc. — Computer Science**
+
+## Let's connect
+
+I'm interested in MES development, manufacturing integration, industrial automation, and practical software projects.
+
+**[LinkedIn](https://www.linkedin.com/in/venu-gopal-562a49200/)** · **[venugopal996639@gmail.com](mailto:venugopal996639@gmail.com)**
+
+<p align="center"><sub>Build with purpose. Learn consistently. Improve one step at a time.</sub></p>
